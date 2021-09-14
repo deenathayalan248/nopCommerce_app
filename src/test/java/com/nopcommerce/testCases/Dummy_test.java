@@ -11,5 +11,11 @@ public class Dummy_test {
 		Assert.assertTrue(true);
 		
 	}
+	
+	@Test
+	public void testing456()
+	{
+	Assert.assertTrue(true);
+	}
 
 }
